@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
 import './Home.css'
-import { CoinContext } from '../../context/coinContext'
+import { CoinContext } from '../../context/CoinContext'
 import { Link } from 'react-router-dom'
 const Home = () => {
 
